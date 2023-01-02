@@ -101,6 +101,5 @@
     "skipLibCheck": true /* Skip type checking all .d.ts files. */
   },
   // "files": ["farmstand.ts", "index.ts"]
-  "include": ["src"],
-  "exclude": ["src/dontTouch.ts"]
+  "include": ["src"]
 }
